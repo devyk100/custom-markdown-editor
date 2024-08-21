@@ -1,0 +1,30 @@
+{
+  "name": "custom-markdown-editor",
+  "version": "1.0.0",
+  "description": "A custom lightweight markdown editor that can be used as a WYSIWYG  with basic to medium features, wherein you can use your own components to render out the styled things",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devyk100/custom-markdown-editor.git"
+  },
+  "keywords": [
+    "react",
+    "reactjs",
+    "markdown",
+    "wysiwyg",
+    "custom",
+    "custom-markdown",
+    "editor",
+    "markdown-editor",
+    "wysiwyg-editor"
+  ],
+  "author": "Yash Ramesh Kumar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/devyk100/custom-markdown-editor/issues"
+  },
+  "homepage": "https://github.com/devyk100/custom-markdown-editor#readme"
+}
