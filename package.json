@@ -1,5 +1,5 @@
 {
-  "name": "custom-markdown-editor",
+  "name": "md-editor",
   "version": "1.0.0",
   "description": "A custom lightweight markdown editor that can be used as a WYSIWYG  with basic to medium features, wherein you can use your own components to render out the styled things",
   "main": "index.js",
