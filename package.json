@@ -1,5 +1,5 @@
 {
-  "name": "custom-react-markdown-editor",
+  "name": "@devyk/md-editor",
   "version": "1.0.0",
   "description": "A custom lightweight markdown editor that can be used as a WYSIWYG  with basic to medium features, wherein you can use your own components to render out the styled things",
   "main": "index.js",
@@ -26,5 +26,14 @@
   "bugs": {
     "url": "https://github.com/devyk100/custom-markdown-editor/issues"
   },
-  "homepage": "https://github.com/devyk100/custom-markdown-editor#readme"
+  "homepage": "https://github.com/devyk100/custom-markdown-editor#readme",
+  "dependencies": {
+    "@rollup/plugin-terser": "^0.4.4",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@rollup/plugin-typescript": "^11.1.6",
+    "rollup": "^4.21.0"
+  }
 }
